@@ -21,10 +21,10 @@
     <div in:fade="{{ delay: 500, duration: 500 }}" out:fade="{{ duration: 500 }}">
         <h1 class="text-4xl underline font-bold my-4">Hello! 👋</h1>
         <p class="text-2xl my-2">My name is Nonthakon Jitchiranant.</p>
-        <p class="text-lg my-2 w-2/3">I am passionate Computer Engineering student from KMITL, I am interesting in several fields of software development.</p>
-        <p class="text-lg my-2 w-2/3">I'm quite good at Web Development and have spent time with both Frontend & Backend.</p>
-        <p class="text-lg my-2 w-2/3">I worked with Node.js, React & Redux, Vue, Django, Tailwind.css, Firebase</p>
-        <p class="text-lg my-2 w-2/3">Also I'm able to work with others stuff such as Machine Learning, Blockchain, Hardware Programming, etc.</p>
+        <p class="text-lg my-1 w-2/3">I am passionate Computer Engineering student from KMITL, I am interesting in several fields of software development.</p>
+        <p class="text-lg my-1 w-2/3">I'm quite good at Web Development and have spent time with both Frontend & Backend.</p>
+        <p class="text-lg my-1 w-2/3">I worked with Node.js, React & Redux, Vue, Django, Tailwind.css, Firebase</p>
+        <p class="text-lg my-1 w-2/3">Also I'm able to work with others stuff such as Machine Learning, Blockchain, Hardware Programming, etc.</p>
 
         <p class="text-lg my-2 w-2/3 underline">Contact</p>
         <p>
